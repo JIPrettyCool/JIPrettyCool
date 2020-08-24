@@ -11,7 +11,7 @@ I'm Meric. I'm a Front End Developer.
 
 📫 How to reach me:
 
-`Discord` - [Discord Server](https://discord.gg/mPKEaKQ)
+`Discord` - [Discord Server](https://discord.gg/ZQSHn9b)
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=JIPrettyCool&show_icons=true alt=Meric />
