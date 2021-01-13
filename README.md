@@ -17,4 +17,4 @@ I'm Meric. I'm a Front End Developer.
 	<img src=https://github-readme-stats.vercel.app/api?username=JIPrettyCool&show_icons=true alt=Meric />
 </p>
 
-<a href="https://www.buymeacoffee.com/NpSJ2UCYx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/NpSJ2UCYx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
