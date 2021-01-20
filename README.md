@@ -2,12 +2,11 @@
 <p align="center">
 <a href="https://github.com/JIPrettyCool" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="JI Pretty Cool" height="20" width="20" /></a>
 <a href="https://twitter.com/iamrealji" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="JI Pretty Cool" height="20" width="20" /></a>
-<a href="https://meric.codes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="JI Pretty Cool" height="20" width="20" /></a>
 </p>
 
-I'm Meric. I'm a Front End Developer.
+I'm Meric. I love python
 
-🔭 I’m currently working on this project [HelpWitch](https://github.com/HelpWitch)
+🔭 I am not working on any projects for now
 
 📫 How to reach me:
 
