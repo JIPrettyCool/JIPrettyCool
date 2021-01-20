@@ -16,5 +16,4 @@ I'm Meric. I'm a Front End Developer.
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JIPrettyCool&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)  
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=JIPrettyCool&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIPrettyCool&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
