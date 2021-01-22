@@ -16,7 +16,7 @@ I ❤️ Python
 <p align="center">
 Me everywhere:
 
-`Discord` - [Discord Server](https://discord.gg/ZQSHn9b)
-`NPM` - [NPM](https://www.npmjs.com/~jiprettycool)
+`Discord` - [Discord Server](https://discord.gg/ZQSHn9b)\n
+`NPM` - [NPM](https://www.npmjs.com/~jiprettycool)\n
 `Hiven` - [Hiven Account](https://app.hiven.io/@meric)
 </p>
