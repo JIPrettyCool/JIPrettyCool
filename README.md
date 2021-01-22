@@ -1,10 +1,6 @@
-<p align="center"> <h1 align="center"> JIPrettyCool </h1> </p>
-
 # 🔥 Hey, It's Meric "JIPrettyCool"
 
 I ❤️ Python
-
----
 
 🔭 I'm currently working on Hammer CSGO Hack Project 
 
