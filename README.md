@@ -2,7 +2,7 @@
 
 I ❤️ Python
 
-🔭 I'm currently working on Hammer CSGO Hack Project 
+🔭 I'm currently working on Never Rick Roll
 
 ---
 <p align="center">
