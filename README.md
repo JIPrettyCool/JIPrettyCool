@@ -1,4 +1,6 @@
-# 🔥 Hey, It's Meric "JIPrettyCool"
+### `npx meric`
+
+# 🔥 Hey, It's Meric "JI"
 
 I ❤️ Python
 
