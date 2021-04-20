@@ -4,7 +4,7 @@
 
 I ❤️ Python
 
-🔭 I'm currently working on Never Rick Roll
+🔭 I'm currently working on nothing :(
 
 ---
 <p align="center">
@@ -17,8 +17,9 @@ I ❤️ Python
 
 <p align="center">
 Me everywhere:
+</p>
 
 `Discord` - [Discord Server](https://discord.gg/ZQSHn9b)
 `NPM` - [NPM](https://www.npmjs.com/~jiprettycool)
 `Hiven` - [Hiven Account](https://app.hiven.io/@meric)
-</p>
+
