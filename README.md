@@ -4,7 +4,7 @@
 
 I ❤️ Python
 
-🔭 I'm currently working on [Hammer CSGO Cheat](https://github.com/barbarbar338/hammer-csgo-hack) it is for education purposes only.
+🔭 I'm currently working on ProjectHX.
 
 ---
 <p align="center">
