@@ -2,7 +2,7 @@
 
 # 🔥 Hey, It's Meric "JI"
 
-I ❤️ Python
+I ❤️ Python ( YEP 0.56% )
 
 🔭 I'm currently working on ProjectHX.
 
